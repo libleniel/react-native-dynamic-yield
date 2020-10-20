@@ -32,6 +32,6 @@ repositories {
 
 dependencies {
     implementation 'com.facebook.react:react-native:+'
-    implementation ('com.dynamicyield:DYAPISDK:+'){ transitive = false;}
+    implementation ('com.dynamicyield:DYAPISDK:3.6.7'){ transitive = false;}
 }
   
